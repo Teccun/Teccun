@@ -6,7 +6,7 @@
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/С++-282C34?logo=с++&logoColor=F7DF1E" alt="С++ logo" title="С++" height="25" />]
+[<img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=00599C" alt="C++ logo" title="C++" height="25" />]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />]
 &nbsp;
